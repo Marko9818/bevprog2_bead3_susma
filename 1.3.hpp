@@ -3,10 +3,7 @@
 
 #include "oswidget.hpp"
 #include "button.hpp"
-#include "window.hpp"
 #include "graphics.hpp"
-
-class Window;
 
 class AmoebaWidget : public OSWidget {
 private:
